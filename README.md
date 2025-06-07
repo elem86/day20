@@ -4,7 +4,7 @@
 
 🧠 Text Analyzer Tool with Word Cloud (Python)
 
-Today I built a quick but powerful NLP tool that analyzes .txt files to extract key insights from unstructured text.
+Today, I built a quick but powerful NLP tool that analyzes .txt files to extract key insights from unstructured text.
 
 ✅ What I accomplished:
 
@@ -20,7 +20,7 @@ Today I built a quick but powerful NLP tool that analyzes .txt files to extract 
 
     - Top 10 most frequent words
 
-  - ☁️ Generated a Word Cloud to visually highlight the most common words
+  - ☁️ Generated a Word Cloud to highlight the most common words visually
 
 
 This project was a great way to practice text preprocessing and basic natural language analysis — perfect for blog content, reports, or early-stage NLP workflows.
