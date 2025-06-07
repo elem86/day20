@@ -28,7 +28,9 @@ This project was a great way to practice text preprocessing and basic natural la
 
 💡 Next step? Hook it up to a web app with Streamlit for an interactive text analysis tool!
 
-📂 Tools: NLTK, matplotlib, wordcloud, Jupyter Notebook
+📊 Tools: NLTK, matplotlib, wordcloud, Jupyter Notebook
+
+📂 Files on GitHub: 🔗 https://github.com/elem86/day20
 
 #DataScience #NLP #Python #TextAnalysis #WordCloud  #JobSearch  #OneProjectADay #day20 #JupyterNotebook #OpenToWork #DataVisualization
 
